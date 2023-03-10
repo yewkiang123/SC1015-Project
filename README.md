@@ -6,3 +6,6 @@
 - Are we able to predict students' dropouts and academic outcomes?
 
 ## Contributors
+- Goh Yew Kiang
+- Megan Lee Tong
+- Chloie Tan Yue Yun
