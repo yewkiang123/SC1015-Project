@@ -1,0 +1,35 @@
+Marital status:                                     Categorical         The marital status of the student. 
+Application mode:                                   Categorical         The method of application used by the student. 
+Application order:                                  Numerical           The order in which the student applied. 
+Course:                                             Categorical         The course taken by the student. 
+Daytime/evening attendance:                         Categorical         Whether the student attends classes during the day or in the evening. 
+Previous qualification:                             Categorical         The qualification obtained by the student before enrolling in higher education. 
+Nacionality:                                        Categorical         The nationality of the student. 
+Mother's qualification:                             Categorical         The qualification of the student's mother. 
+Father's qualification:                             Categorical         The qualification of the student's father. 
+Mother's occupation:                                Categorical         The occupation of the student's mother. 
+Father's occupation:                                Categorical         The occupation of the student's father. 
+Displaced:                                          Categorical         Whether the student is a displaced person. 
+Educational special needs:                          Categorical         Whether the student has any special educational needs. 
+Debtor:                                             Categorical         Whether the student is a debtor. 
+Tuition fees up to date:                            Categorical         Whether the student's tuition fees are up to date. 
+Gender:                                             Categorical         The gender of the student. 
+Scholarship holder:                                 Categorical         Whether the student is a scholarship holder. 
+Age at enrollment:                                  Numerical           The age of the student at the time of enrollment. 
+International:                                      Categorical         Whether the student is an international student. 
+Curricular units 1st sem (credited):                Numerical           The number of curricular units credited by the student in the first semester. 
+Curricular units 1st sem (enrolled):                Numerical           The number of curricular units enrolled by the student in the first semester. 
+Curricular units 1st sem (evaluations):             Numerical           The number of curricular units evaluated by the student in the first semester. 
+Curricular units 1st sem (approved):                Numerical           The number of curricular units approved by the student in the first semester. 
+Curricular Units 1st Sem (grade)
+Curricular Units 1st Sem (without evaluations)
+Curricular units 2nd sem (credited):                Numerical           The number of curricular units credited by the student in the second semester. 
+Curricular units 2nd sem (enrolled):                Numerical           The number of curricular units enrolled by the student in the second semester. 
+Curricular units 2nd sem (evaluations):             Numerical           The number of curricular units evaluated by the student in the second semester. 
+Curricular units 2nd sem (approved):                Numerical           The number of curricular units approved by the student in the second semester. 
+Curricular units 2nd sem (grade)
+Curricular units 2nd sem (without evaluations)
+Unemployment rate
+Inflation rate
+GDP
+Target:                                             Categorical         Outcome of the student  - Graduate/Dropout/Enrolled
