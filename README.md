@@ -9,3 +9,6 @@
 - Goh Yew Kiang
 - Megan Lee Tong
 - Chloie Tan Yue Yun
+
+## References
+- Realinho, V., Machado, J., Baptista, L., & Martins, M. V. (2022). *Predicting Student Dropout and Academic Success.* Data, 7(11), 146. MDPI AG. Retrieved from http://dx.doi.org/10.3390/data7110146
